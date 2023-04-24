@@ -1,6 +1,7 @@
 # CryptoTrack
 
 CryptoTrack is a responsive cryptocurrency dashboard built with React, which fetches and displays real-time data on current crypto prices. This easy-to-use tool allows users to track various cryptocurrencies' market status in one place. Keep up with the fast-paced world of cryptocurrencies using this streamlined, user-friendly dashboard.
+<img width="1138" alt="Screenshot 2023-04-24 at 10 58 29 AM" src="https://user-images.githubusercontent.com/70959739/234039502-280ba426-ee7c-4fd6-9b75-5ed40f891e64.png">
 
 ## Features
 
@@ -8,6 +9,7 @@ CryptoTrack is a responsive cryptocurrency dashboard built with React, which fet
 - Streamlined user interface
 - Responsive design for mobile and desktop devices
 - Filter by currency name
+<img width="1016" alt="Screenshot 2023-04-24 at 10 58 56 AM" src="https://user-images.githubusercontent.com/70959739/234039517-e71ba0f9-0a29-4e0e-8021-b07c3b44a460.png">
 
 ## Getting Started
 
