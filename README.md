@@ -33,5 +33,5 @@ After installing the dependencies, start the local development server: `npm star
 The app should open in your default web browser at http://localhost:3000/.
 
 ## Built With
-React - A JavaScript library for building user interfaces
-CoinGecko API - Provides real-time information on cryptocurrency prices
+* React - A JavaScript library for building user interfaces
+* CoinGecko API - Provides real-time information on cryptocurrency prices
